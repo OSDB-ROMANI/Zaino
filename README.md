@@ -1,1 +1,2 @@
 # Zaino
+Esempio di polimorfismo
